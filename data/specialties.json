@@ -1,0 +1,669 @@
+{
+  "version": 2,
+  "fields": [
+    {
+      "id": "sharia",
+      "name": "الشريعة",
+      "categories": [
+        {
+          "id": "sharia.aqeedah",
+          "name": "العقيدة وأصول الدين",
+          "branches": [
+            {
+              "id": "sharia.aqeedah.1",
+              "name": "التوحيد والعقيدة الإسلامية"
+            },
+            {
+              "id": "sharia.aqeedah.2",
+              "name": "الفرق والمذاهب العقدية"
+            },
+            {
+              "id": "sharia.aqeedah.3",
+              "name": "الأديان المقارنة"
+            },
+            {
+              "id": "sharia.aqeedah.4",
+              "name": "المذاهب الفكرية المعاصرة"
+            },
+            {
+              "id": "sharia.aqeedah.5",
+              "name": "الاستشراق والتنصير"
+            }
+          ]
+        },
+        {
+          "id": "sharia.quran",
+          "name": "القرآن الكريم وعلومه",
+          "branches": [
+            {
+              "id": "sharia.quran.1",
+              "name": "التفسير"
+            },
+            {
+              "id": "sharia.quran.2",
+              "name": "علوم القرآن"
+            },
+            {
+              "id": "sharia.quran.3",
+              "name": "القراءات"
+            },
+            {
+              "id": "sharia.quran.4",
+              "name": "التجويد"
+            },
+            {
+              "id": "sharia.quran.5",
+              "name": "إعجاز القرآن"
+            },
+            {
+              "id": "sharia.quran.6",
+              "name": "تفسير آيات الأحكام"
+            }
+          ]
+        },
+        {
+          "id": "sharia.sunnah",
+          "name": "السنة النبوية وعلومها",
+          "branches": [
+            {
+              "id": "sharia.sunnah.1",
+              "name": "الحديث رواية"
+            },
+            {
+              "id": "sharia.sunnah.2",
+              "name": "مصطلح الحديث (علوم الحديث)"
+            },
+            {
+              "id": "sharia.sunnah.3",
+              "name": "الجرح والتعديل"
+            },
+            {
+              "id": "sharia.sunnah.4",
+              "name": "علل الحديث"
+            },
+            {
+              "id": "sharia.sunnah.5",
+              "name": "التخريج ودراسة الأسانيد"
+            },
+            {
+              "id": "sharia.sunnah.6",
+              "name": "شروح الحديث"
+            },
+            {
+              "id": "sharia.sunnah.7",
+              "name": "السيرة النبوية"
+            }
+          ]
+        },
+        {
+          "id": "sharia.fiqh",
+          "name": "الفقه",
+          "branches": [
+            {
+              "id": "sharia.fiqh.1",
+              "name": "فقه العبادات"
+            },
+            {
+              "id": "sharia.fiqh.2",
+              "name": "فقه المعاملات المالية"
+            },
+            {
+              "id": "sharia.fiqh.3",
+              "name": "فقه الأسرة (الأحوال الشخصية)"
+            },
+            {
+              "id": "sharia.fiqh.4",
+              "name": "المواريث (الفرائض)"
+            },
+            {
+              "id": "sharia.fiqh.5",
+              "name": "الجنايات والحدود والتعزير"
+            },
+            {
+              "id": "sharia.fiqh.6",
+              "name": "الفقه المقارن"
+            },
+            {
+              "id": "sharia.fiqh.7",
+              "name": "فقه النوازل والقضايا المعاصرة"
+            },
+            {
+              "id": "sharia.fiqh.8",
+              "name": "القواعد الفقهية"
+            },
+            {
+              "id": "sharia.fiqh.9",
+              "name": "الفقه الطبي"
+            }
+          ]
+        },
+        {
+          "id": "sharia.usul",
+          "name": "أصول الفقه",
+          "branches": [
+            {
+              "id": "sharia.usul.1",
+              "name": "الأدلة الشرعية"
+            },
+            {
+              "id": "sharia.usul.2",
+              "name": "دلالات الألفاظ"
+            },
+            {
+              "id": "sharia.usul.3",
+              "name": "الاجتهاد والتقليد والفتوى"
+            },
+            {
+              "id": "sharia.usul.4",
+              "name": "مقاصد الشريعة"
+            },
+            {
+              "id": "sharia.usul.5",
+              "name": "تخريج الفروع على الأصول"
+            },
+            {
+              "id": "sharia.usul.6",
+              "name": "القواعد الأصولية"
+            }
+          ]
+        },
+        {
+          "id": "sharia.siyasa",
+          "name": "السياسة الشرعية والقضاء",
+          "branches": [
+            {
+              "id": "sharia.siyasa.1",
+              "name": "السياسة الشرعية"
+            },
+            {
+              "id": "sharia.siyasa.2",
+              "name": "نظام الحكم في الإسلام"
+            },
+            {
+              "id": "sharia.siyasa.3",
+              "name": "القضاء في الإسلام"
+            },
+            {
+              "id": "sharia.siyasa.4",
+              "name": "فقه المرافعات والإثبات"
+            },
+            {
+              "id": "sharia.siyasa.5",
+              "name": "الحسبة"
+            },
+            {
+              "id": "sharia.siyasa.6",
+              "name": "التحكيم في الفقه الإسلامي"
+            }
+          ]
+        },
+        {
+          "id": "sharia.iqtisad",
+          "name": "الاقتصاد الإسلامي والمالية الإسلامية",
+          "branches": [
+            {
+              "id": "sharia.iqtisad.1",
+              "name": "المصرفية الإسلامية"
+            },
+            {
+              "id": "sharia.iqtisad.2",
+              "name": "الزكاة"
+            },
+            {
+              "id": "sharia.iqtisad.3",
+              "name": "الأوقاف"
+            },
+            {
+              "id": "sharia.iqtisad.4",
+              "name": "التأمين التكافلي"
+            },
+            {
+              "id": "sharia.iqtisad.5",
+              "name": "الصكوك والأسواق المالية الإسلامية"
+            },
+            {
+              "id": "sharia.iqtisad.6",
+              "name": "الرقابة الشرعية"
+            }
+          ]
+        },
+        {
+          "id": "sharia.dawah",
+          "name": "الدعوة والثقافة الإسلامية",
+          "branches": [
+            {
+              "id": "sharia.dawah.1",
+              "name": "الدعوة والاحتساب"
+            },
+            {
+              "id": "sharia.dawah.2",
+              "name": "الثقافة الإسلامية"
+            },
+            {
+              "id": "sharia.dawah.3",
+              "name": "الأخلاق والسلوك"
+            },
+            {
+              "id": "sharia.dawah.4",
+              "name": "التاريخ والحضارة الإسلامية"
+            }
+          ]
+        },
+        {
+          "id": "sharia.arabic",
+          "name": "علوم اللغة العربية (علوم الآلة)",
+          "branches": [
+            {
+              "id": "sharia.arabic.1",
+              "name": "النحو"
+            },
+            {
+              "id": "sharia.arabic.2",
+              "name": "الصرف"
+            },
+            {
+              "id": "sharia.arabic.3",
+              "name": "البلاغة"
+            },
+            {
+              "id": "sharia.arabic.4",
+              "name": "فقه اللغة والمعاجم"
+            },
+            {
+              "id": "sharia.arabic.5",
+              "name": "الأدب العربي"
+            },
+            {
+              "id": "sharia.arabic.6",
+              "name": "العروض والقافية"
+            },
+            {
+              "id": "sharia.arabic.7",
+              "name": "المنطق"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "law",
+      "name": "القانون",
+      "categories": [
+        {
+          "id": "law.public",
+          "name": "القانون العام",
+          "branches": [
+            {
+              "id": "law.public.1",
+              "name": "القانون الدستوري"
+            },
+            {
+              "id": "law.public.2",
+              "name": "الأنظمة السياسية"
+            },
+            {
+              "id": "law.public.3",
+              "name": "القانون الإداري"
+            },
+            {
+              "id": "law.public.4",
+              "name": "القضاء الإداري"
+            },
+            {
+              "id": "law.public.5",
+              "name": "المالية العامة والتشريع الضريبي والزكوي"
+            }
+          ]
+        },
+        {
+          "id": "law.criminal",
+          "name": "القانون الجنائي",
+          "branches": [
+            {
+              "id": "law.criminal.1",
+              "name": "القسم العام للعقوبات"
+            },
+            {
+              "id": "law.criminal.2",
+              "name": "القسم الخاص للعقوبات (الجرائم)"
+            },
+            {
+              "id": "law.criminal.3",
+              "name": "الإجراءات الجزائية"
+            },
+            {
+              "id": "law.criminal.4",
+              "name": "علم الإجرام والعقاب"
+            },
+            {
+              "id": "law.criminal.5",
+              "name": "الجرائم المعلوماتية"
+            },
+            {
+              "id": "law.criminal.6",
+              "name": "الأدلة الجنائية والطب الشرعي"
+            }
+          ]
+        },
+        {
+          "id": "law.private",
+          "name": "القانون الخاص",
+          "branches": [
+            {
+              "id": "law.private.1",
+              "name": "القانون المدني (الالتزامات والعقود)"
+            },
+            {
+              "id": "law.private.2",
+              "name": "الحقوق العينية"
+            },
+            {
+              "id": "law.private.3",
+              "name": "القانون التجاري"
+            },
+            {
+              "id": "law.private.4",
+              "name": "قانون الشركات"
+            },
+            {
+              "id": "law.private.5",
+              "name": "الأوراق التجارية"
+            },
+            {
+              "id": "law.private.6",
+              "name": "الإفلاس"
+            },
+            {
+              "id": "law.private.7",
+              "name": "القانون البحري والجوي"
+            },
+            {
+              "id": "law.private.8",
+              "name": "قانون العمل"
+            },
+            {
+              "id": "law.private.9",
+              "name": "الأحوال الشخصية"
+            },
+            {
+              "id": "law.private.10",
+              "name": "المرافعات المدنية والتجارية"
+            },
+            {
+              "id": "law.private.11",
+              "name": "الإثبات"
+            },
+            {
+              "id": "law.private.12",
+              "name": "التنفيذ"
+            }
+          ]
+        },
+        {
+          "id": "law.international",
+          "name": "القانون الدولي",
+          "branches": [
+            {
+              "id": "law.international.1",
+              "name": "القانون الدولي العام"
+            },
+            {
+              "id": "law.international.2",
+              "name": "القانون الدولي الخاص"
+            },
+            {
+              "id": "law.international.3",
+              "name": "القانون الدولي الإنساني"
+            },
+            {
+              "id": "law.international.4",
+              "name": "حقوق الإنسان"
+            },
+            {
+              "id": "law.international.5",
+              "name": "المنظمات الدولية"
+            },
+            {
+              "id": "law.international.6",
+              "name": "قانون التجارة الدولية"
+            },
+            {
+              "id": "law.international.7",
+              "name": "التحكيم التجاري الدولي"
+            }
+          ]
+        },
+        {
+          "id": "law.modern",
+          "name": "فروع قانونية حديثة ومتخصصة",
+          "branches": [
+            {
+              "id": "law.modern.1",
+              "name": "الملكية الفكرية"
+            },
+            {
+              "id": "law.modern.2",
+              "name": "قانون التقنية والأمن السيبراني"
+            },
+            {
+              "id": "law.modern.3",
+              "name": "حماية البيانات الشخصية"
+            },
+            {
+              "id": "law.modern.4",
+              "name": "المنافسة وحماية المستهلك"
+            },
+            {
+              "id": "law.modern.5",
+              "name": "الأسواق المالية"
+            },
+            {
+              "id": "law.modern.6",
+              "name": "البنوك والتأمين"
+            },
+            {
+              "id": "law.modern.7",
+              "name": "قانون البيئة"
+            },
+            {
+              "id": "law.modern.8",
+              "name": "قانون الطاقة والتعدين"
+            },
+            {
+              "id": "law.modern.9",
+              "name": "القانون الطبي والصحي"
+            },
+            {
+              "id": "law.modern.10",
+              "name": "القانون الرياضي"
+            },
+            {
+              "id": "law.modern.11",
+              "name": "قانون الإعلام"
+            }
+          ]
+        },
+        {
+          "id": "law.saudi",
+          "name": "الأنظمة السعودية",
+          "branches": [
+            {
+              "id": "law.saudi.1",
+              "name": "النظام الأساسي للحكم"
+            },
+            {
+              "id": "law.saudi.2",
+              "name": "نظام القضاء ونظام ديوان المظالم"
+            },
+            {
+              "id": "law.saudi.3",
+              "name": "نظام المعاملات المدنية"
+            },
+            {
+              "id": "law.saudi.4",
+              "name": "نظام الإثبات"
+            },
+            {
+              "id": "law.saudi.5",
+              "name": "نظام الأحوال الشخصية"
+            },
+            {
+              "id": "law.saudi.6",
+              "name": "نظام المرافعات الشرعية"
+            },
+            {
+              "id": "law.saudi.7",
+              "name": "نظام الإجراءات الجزائية"
+            },
+            {
+              "id": "law.saudi.8",
+              "name": "نظام المرافعات أمام ديوان المظالم"
+            },
+            {
+              "id": "law.saudi.9",
+              "name": "نظام الشركات"
+            },
+            {
+              "id": "law.saudi.10",
+              "name": "نظام المحاكم التجارية"
+            },
+            {
+              "id": "law.saudi.11",
+              "name": "نظام الإفلاس"
+            },
+            {
+              "id": "law.saudi.12",
+              "name": "نظام التنفيذ"
+            },
+            {
+              "id": "law.saudi.13",
+              "name": "نظام العمل"
+            },
+            {
+              "id": "law.saudi.14",
+              "name": "نظام التحكيم"
+            },
+            {
+              "id": "law.saudi.15",
+              "name": "نظام المحاماة"
+            },
+            {
+              "id": "law.saudi.16",
+              "name": "نظام مكافحة الجرائم المعلوماتية"
+            },
+            {
+              "id": "law.saudi.17",
+              "name": "نظام حماية البيانات الشخصية"
+            }
+          ]
+        },
+        {
+          "id": "law.practice",
+          "name": "الممارسة والمهن القانونية",
+          "branches": [
+            {
+              "id": "law.practice.1",
+              "name": "المحاماة والترافع"
+            },
+            {
+              "id": "law.practice.2",
+              "name": "القضاء"
+            },
+            {
+              "id": "law.practice.3",
+              "name": "التحكيم والوساطة والصلح"
+            },
+            {
+              "id": "law.practice.4",
+              "name": "الاستشارات القانونية"
+            },
+            {
+              "id": "law.practice.5",
+              "name": "الصياغة القانونية وكتابة العقود"
+            },
+            {
+              "id": "law.practice.6",
+              "name": "التوثيق"
+            },
+            {
+              "id": "law.practice.7",
+              "name": "الامتثال والحوكمة"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "interdisciplinary",
+      "name": "دراسات بينية",
+      "categories": [
+        {
+          "id": "interdisciplinary.comparative",
+          "name": "الدراسات المقارنة بين الشريعة والقانون",
+          "branches": [
+            {
+              "id": "interdisciplinary.comparative.1",
+              "name": "المقارنة بين الفقه والقانون المدني"
+            },
+            {
+              "id": "interdisciplinary.comparative.2",
+              "name": "المقارنة في الجنايات والعقوبات"
+            },
+            {
+              "id": "interdisciplinary.comparative.3",
+              "name": "المقارنة في الأحوال الشخصية"
+            },
+            {
+              "id": "interdisciplinary.comparative.4",
+              "name": "فلسفة التشريع"
+            },
+            {
+              "id": "interdisciplinary.comparative.5",
+              "name": "تاريخ التشريع والقانون"
+            },
+            {
+              "id": "interdisciplinary.comparative.6",
+              "name": "مناهج البحث الشرعي والقانوني"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "support",
+      "name": "العلوم المساندة",
+      "categories": [
+        {
+          "id": "support.astronomy",
+          "name": "علم الفلك",
+          "branches": []
+        },
+        {
+          "id": "support.psychology",
+          "name": "علم النفس",
+          "branches": []
+        },
+        {
+          "id": "support.sociology",
+          "name": "علم الاجتماع",
+          "branches": []
+        },
+        {
+          "id": "support.imaniyat",
+          "name": "الإيمانيات",
+          "branches": []
+        },
+        {
+          "id": "support.professional",
+          "name": "المهني",
+          "branches": []
+        }
+      ]
+    },
+    {
+      "id": "other",
+      "name": "أخرى",
+      "categories": []
+    }
+  ]
+}
